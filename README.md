@@ -1,10 +1,19 @@
+```
+   1.Dna
+        \
+3.HAT -> 2.mRNA -> 5.Wide -> Association 
+        /
+        4.E-box
+```
+
+
 1. Voir
    - Photons::SCN
    - Catabolic//HOMEOSTASIS
    - Biochemistry::Catecholamines
      
 2. Savoir
-   - CLOCK-BMAL1
+   - [CLOCK-BMAL1](https://en.wikipedia.org/wiki/CLOCK#:~:text=CLOCK%20(from%20circadian%20locomotor%20output,and%20period%20of%20circadian%20rhythms.)
    - ATP::Adenosine//ALLOSTASIS
    - Psychology::Nicotinic/Muscarinic
      
