@@ -7,7 +7,7 @@
 ```
 
 
-1. Voir $i$
+1. Voir 👀
    - Photons::SCN
    - Catabolic//HOMEOSTASIS
    - Biochemistry::Catecholamines
