@@ -7,25 +7,23 @@
 ```
    1.Dna
         \
-3.HAT -> 2.mRNA -> 5.Wide -> Association 
+2.HAT -> 4.mRNA -> 5.Wide -> 6. Association 
         /
-        4.E-box
+        3.E-box
 ```
 
 > A person’s chronotype, to use the scientific lingo, is largely a product of their genes. Waking before sunrise also risks turning you into a bore. Some larks cannot resist describing how much they got done while owls bashed the snooze button. Others go home early to tuck themselves in rather than [socialise after hours](https://abikesa.github.io/sociology/). Night owls, by contrast, let loose. Research shows they drink more and take more drugs. They also have more sex. Christoph Randler and colleagues at the Heidelberg University of Education found that men who stayed up later had “higher mating success”. In the eyes of many, late nights are the preserve of youth, whereas early mornings are the domain of the geriatric.
 
-1. Voir 👀
-   - Photons::SCN
+
+1. Voir 👀,  Photons::SCN
    - Catabolic//HOMEOSTASIS
    - Biochemistry::Catecholamines
      
-2. Savoir $+$
-   - <a href="https://en.wikipedia.org/wiki/CLOCK#:~:text=CLOCK%20(from%20circadian%20locomotor%20output,and%20period%20of%20circadian%20rhythms">CLOCK-BMAL1</a>
+2. Savoir $+$, <a href="https://en.wikipedia.org/wiki/CLOCK#:~:text=CLOCK%20(from%20circadian%20locomotor%20output,and%20period%20of%20circadian%20rhythms">CLOCK-BMAL1</a>
    - ATP::Adenosine//ALLOSTASIS
    - Psychology::Nicotinic/Muscarinic
      
-3. Pouvoir $-$
-   - PER-TIM
+3. Pouvoir $-$, PER-TIM
    - Anabolic::Drowsy/SOCIOSTASIS
    - Sociology::Rituals::GABA
   
