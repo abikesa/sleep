@@ -1,4 +1,4 @@
-#### Business | [Bartleby](https://www.economist.com/business/2024/06/06/is-it-better-to-be-an-early-bird-or-a-night-owl#)
+#### <span style="color: red;">Business</span> | [Bartleby](https://www.economist.com/business/2024/06/06/is-it-better-to-be-an-early-bird-or-a-night-owl#)
 # Is it better to be an early bird or a night owl?
 #### The promise and perils of waking before sunrise
 
