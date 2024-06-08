@@ -7,17 +7,17 @@
 ```
 
 
-1. Voir 👀,  Photons::SCN
-   - Catabolic//HOMEOSTASIS
-   - Biochemistry::Catecholamines
+1. **SPECIFIC/Individualized**
+   - Voir 👀, Photons::SCN: Catabolic//HOMEOSTASIS
+   - Savoir $+$, <a href="https://en.wikipedia.org/wiki/CLOCK#:~:text=CLOCK%20(from%20circadian%20locomotor%20output,and%20period%20of%20circadian%20rhythms">CLOCK-BMAL1</a> Biochemistry::Catecholamines
      
-2. Savoir $+$, <a href="https://en.wikipedia.org/wiki/CLOCK#:~:text=CLOCK%20(from%20circadian%20locomotor%20output,and%20period%20of%20circadian%20rhythms">CLOCK-BMAL1</a>
-   - ATP::Adenosine//ALLOSTASIS
-   - Psychology::Nicotinic/Muscarinic
+2. **COMMUNICATION/OTHERS**
+   - Pouvoir $-$, PER-TIMATP::Adenosine//ALLOSTASIS
+   - Freedom-Duty `TradeOff`, Head::Nicotinic/Muscarinic
      
-3. Pouvoir $-$, PER-TIM
-   - Anabolic::Drowsy/SOCIOSTASIS
-   - Sociology::Rituals::GABA
+3. **GENERAL/Membership**
+   - Identity Early-Bird, Anabolic::Drowsy/SOCIOSTASIS
+   - Benefits Night Owl, Sociology::Rituals::GABA
   
      ---
 
